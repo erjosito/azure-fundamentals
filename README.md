@@ -41,6 +41,7 @@ Price-related information:
 
 * [Azure Calculator](https://azure.microsoft.com/en-us/pricing/calculator/): for cost calculations
 * [Azure documentation](https://docs.microsoft.com/en-us/azure/#pivot=products): each Azure product has a dedicated pricing page in the documentation area (tip: your search engine of choice can probably find it really quickly)
+* [Microsoft Cloud Solution Provider Program](https://partnercenter.microsoft.com/en-us/partner/cloud-solution-provider): find out about the preferred Azure sales motion for Microsoft partners 
 
 
 ## Sales (partner-oriented)
